@@ -1,4 +1,4 @@
-# Week 6 - Advanced String Tasks 
+# Week 6 - Advanced Tasks 
 
 ## Tasks
 
